@@ -2,7 +2,7 @@ const cacheName = 'landing-page-cache-v1';
 const assetsToCache = [
   './',
   './index.html',
-  './index.css',
+  './styles.css',
   './icons/favicon.png',
   './icons/favicon.png'
 ];
